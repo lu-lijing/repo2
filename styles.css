@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap")
+
+/*===== variable css =====*/
+:root{
+
+
+
+	--header-height: 3rem;
+	--nav-width: 324px;
+
+	--font-medium: 500;
+	--font-semi-bold: 600;
+	--font-bold: 700;
+
+
+	/*===== colors =====*/
+	--first-color: #CC4B2C;
+	--first-color-dark: #662616;
+	--first-color-darken: #290F09;
+	--text-color: #54423D;
+	--first-color-light: #EAE7E6;
+	--first-color-lighten: #FFFAFA;
+
+	/*===== fonts and typography =====*/
+
+	
+
+
+	/*===== index =====*/
+
+
+
+};
+
+
+
+
+
+image{padding: 10px 10px 10px 10px;}
